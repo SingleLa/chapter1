@@ -15,6 +15,6 @@ public class Chapter1Application {
 
 	@RequestMapping("/")
 	public String index(){
-		return "Hello Spring Boot";
+		return "Hello     s Spring Boot";
 	}
 }
